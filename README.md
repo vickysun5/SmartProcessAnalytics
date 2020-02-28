@@ -14,9 +14,9 @@ The major files under the `Smart_Process_Analytics` are:
 2. `cv_final`/`cv_final_onestd`: model construction using different cross-validation strageries (or cross-validation with one standard error rule) for models in SPA.
 3. `IC`: model construction using information criteria for dynamic models.
 4. `regression_models/nonlinear_regression_other`: basic linear/nonlinear and DALVEN regression models in SPA.
-5. `timeseries_regression_RNN`: RNN model (including training/testing for single/multiple training sets of a RNN).
-6. `timeseries_regression_matlab`: MATLAB SS model (including training/testing for single/multiple training sets of a RNN).
-7. `timeseries_regression_ADAPTx`: ADAPTx SS-CVA model (including training/testing for single/multiple training sets of a RNN).
+5. `timeseries_regression_RNN`: RNN model (including training/testing for single/multiple training sets).
+6. `timeseries_regression_matlab`: MATLAB SS model (including training/testing for single/multiple training sets).
+7. `timeseries_regression_ADAPTx`: ADAPTx SS-CVA model (including training/testing for single/multiple training sets.
 
 
 Please contact Richard Braatz at braatz@mit.edu for any inquiry. 
