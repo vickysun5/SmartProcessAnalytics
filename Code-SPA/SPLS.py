@@ -2,7 +2,8 @@
 """
 Created on Tue Dec 11 14:58:29 2018
 
-@author: Vicky
+@author: Weike (Vicky) Sun vickysun@mit.edu/weike.sun93@gmail.com
+(c) 2020 Weike Sun, all rights reserved
 """
 #check the lib
 #import rpy2.rinterface
