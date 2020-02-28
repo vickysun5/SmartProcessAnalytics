@@ -3,7 +3,7 @@ Smart Process Analytics for predictive modeling
 
 This repository contains Smart Process Analytics (SPA) softawre for predictive modeling associated with the paper 'Smart Process Analytics' by Weike Sun and Richard D. Braatz.
 
-The softawre is performed in Python, the `Smart_Process_Analytics` file is the main function to run the Smart Process Analytics which provides the default version for the predictive modeling and will provide the final model with model evaluation for you. All the other files that are needed to run `Smart_Process_Analytics` is stored in `Codes-SPA`. To run it on your computer, simply download the `Smart_Process_Analytics` and all the other files in `Codes-SPA` and put them in the same folder.
+The softawre is performed in Python, the `Smart_Process_Analytics` file is the main function to run the Smart Process Analytics which provides the default version for the predictive modeling and will provide the final model with model evaluation for you. All the other files that are needed to run `Smart_Process_Analytics` is stored in `Code-SPA`. To run it on your computer, simply download the `Smart_Process_Analytics` and all the other files in `Code-SPA` and put them in the same folder.
 
 If you want to reset other hyperparameters that are set as default values in the `Smart_Process_Analytics` file or use other functionalities (e.g., model fitting for multiple times series data set using one model), you can use the data interrogation, model construction and residual analysis by yourself. One example is provided in the file `Example 1` in Folder `Example` which uses different methods directly called from the `cv_final` file using the data from the 3D printer example in the original paper.
 
