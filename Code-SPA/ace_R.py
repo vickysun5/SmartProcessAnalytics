@@ -2,7 +2,8 @@
 """
 Created on Thu Mar 14 22:11:58 2019
 
-@author: Vicky
+@author: Weike (Vicky) Sun vickysun@mit.edu/weike.sun93@gmail.com
+(c) 2020 Weike Sun, all rights reserved
 """
 
 import numpy as np
